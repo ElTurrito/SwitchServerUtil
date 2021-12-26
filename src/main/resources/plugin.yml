@@ -1,0 +1,8 @@
+name: Switchserver.main
+version: '${project.version}'
+main: switchservers.switchserver.main.Switchserver.Main
+api-version: 1.18
+
+commands:
+  send:
+    description: send to bunguee server
